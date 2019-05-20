@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Jessie',
+  subtitle: 'Thoughts on technology, software, teaching and travelling.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -16,21 +16,17 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jessie Leung',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software developer with a passion for client side technologies, teaching, mentoring and travelling.',
     contacts: {
-      email: '#',
+      email: 'jleu1656@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'jleu1656',
+      github: 'jess-leung',
       rss: '#',
       vkontakte: '#'
     }

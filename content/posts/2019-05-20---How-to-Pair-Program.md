@@ -1,13 +1,13 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: How to Pair Program
+date: "2019-05-20T03:58:34+00:00"
 template: "post"
-draft: false
-slug: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+draft: true
+slug: "/posts/how-to-pair-program/"
+category: "Software delivery"
 tags:
-  - "Handwriting"
-  - "Learning to write"
+  - "Software delivery practices"
+  - "Pair programming"
 description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
 ---
 
