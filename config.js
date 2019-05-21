@@ -28,7 +28,7 @@ module.exports = {
       twitter: 'jleu1656',
       github: 'jess-leung',
       rss: '#',
-      vkontakte: '#'
+      medium: 'jessieleung'
     }
   }
 };
